@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: DemoDroneServer
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 20610
+Implementation-Vendor-Id: com.scripbox
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://projects.spring.io/spring-boot/DemoDroneSer
+ ver/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
